@@ -1,1 +1,1 @@
-# JavaScript_Fundamentals_Exercises-
+# JavaScript_Fundamentals_Exercises
